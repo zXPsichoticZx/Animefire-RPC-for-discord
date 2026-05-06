@@ -1,6 +1,4 @@
-Aqui está tudo traduzido, sem mexer no código:
 
----
 
 # 🔥 AnimeFire Discord RPC
 
